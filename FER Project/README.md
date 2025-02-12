@@ -8,6 +8,8 @@ This project investigates various feature extraction methods for Facial Expressi
 
 The project follows a structured pipeline consisting of the following steps:
 
+![FER Pipeline](images/image1.png)
+
 1. **Image Acquisition** - Collecting images or video frames from datasets such as CK+.
 2. **Face Detection & Pre-processing** - Identifying and segmenting faces in the input images.
 3. **Feature Extraction** - Applying various feature detection and description methods.
@@ -21,20 +23,28 @@ The following feature extraction techniques are studied in this project:
 
 A face detection algorithm is applied to extract face regions from video frames, using MATLAB's `vision.CascadeObjectDetector()`.
 
+![Face Detection Result](images/image2.png)
+
 ### 2. Local Binary Patterns (LBP)
 
 - Analyzes texture by comparing neighboring pixels.
 - Converts images into histograms of LBP codes for classification.
+
+![LBP Explanation](images/Picture3.png)
 
 ### 3. Gabor Filter
 
 - A linear bandpass filter used for texture analysis.
 - Features are extracted based on wave parameters such as wavelength and orientation.
 
+![Gabor Filter Theory](images/Picture12.png)
+
 ### 4. Histogram of Oriented Gradients (HOG)
 
 - Detects object shapes using gradients in small image blocks.
 - Used to identify facial muscle movements for expression classification.
+
+![HOG Features](images/Picture1.png)
 
 ### 5. Maximally Stable Extremal Regions (MSER)
 
@@ -55,6 +65,8 @@ A face detection algorithm is applied to extract face regions from video frames,
 
 - Tracks motion of facial features across video frames.
 - Useful for analyzing expression transitions dynamically.
+
+![Optical Flow Example](images/image4.png)
 
 ## Implementation Details
 
