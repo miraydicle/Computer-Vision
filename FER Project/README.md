@@ -23,8 +23,10 @@ The following feature extraction techniques are studied in this project:
 
 A face detection algorithm is applied to extract face regions from video frames, using MATLAB's `vision.CascadeObjectDetector()`.
 
-![Face Detection Result](images/image2.png)
-![Face Detection Result1](images/image3.png)
+<p align="center">
+    <img src="images/image2.png" width="45%" />
+    <img src="images/image3.png" width="45%" />
+</p>
 
 ### 2. Local Binary Patterns (LBP)
 
