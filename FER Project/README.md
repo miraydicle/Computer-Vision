@@ -33,7 +33,9 @@ A face detection algorithm is applied to extract face regions from video frames,
 - Analyzes texture by comparing neighboring pixels.
 - Converts images into histograms of LBP codes for classification.
 
-![LBP Explanation](images/Picture3.png)
+<p align="center">
+    <img src="images/Picture3.png" width="100%">
+</p>
 
 ### 3. Gabor Filter
 
@@ -69,7 +71,9 @@ A face detection algorithm is applied to extract face regions from video frames,
 - Tracks motion of facial features across video frames.
 - Useful for analyzing expression transitions dynamically.
 
-![Optical Flow Example](images/image4.png)
+<p align="center">
+    <img src="images/image4.png" width="75%">
+</p>
 
 ## Implementation Details
 
