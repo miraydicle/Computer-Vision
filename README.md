@@ -30,8 +30,8 @@ For Python:
 python script_name.py
 ```
 
-## **Contributing**
-Contributions are welcome! Feel free to submit pull requests or report issues.
-
 ## **License**
 This project is licensed under the MIT License.
+
+---
+**Author:** Miray Dicle
