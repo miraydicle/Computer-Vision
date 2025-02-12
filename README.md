@@ -1,6 +1,6 @@
 # **Computer Vision Implementations**
 
-This repository contains implementations of fundamental and advanced computer vision techniques, focusing on image processing, feature extraction, and computational vision methods.
+This repository contains implementations of fundamental and advanced computer vision techniques, including image processing, edge detection, feature extraction, optical flow, and stereo vision. The projects utilize mathematical models and algorithms for visual data analysis and enhancement.
 
 ## **Features**
 - **Image Processing** – RGB channel extraction, grayscale conversion, histogram equalization
