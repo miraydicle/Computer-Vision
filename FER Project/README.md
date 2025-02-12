@@ -86,6 +86,9 @@ A face detection algorithm is applied to extract face regions from video frames,
 - HOG combined with SVM provided the highest accuracy in expression recognition.
 - LBP and Gabor features performed well for static image classification.
 - Optical Flow showed promising results in tracking dynamic facial expressions.
+- For a more detailed analysis and discussion of the findings, please refer to the document available in the `docs` directory:  
+📄 **[Exploring Feature Extraction Methods for Facial Expression Recognition Systems](docs/Exploring%20Feature%20Extraction%20Methods%20for%20Facial%20Expression%20Recognition%20Systems.pdf)**.
+
 
 ## References
 
