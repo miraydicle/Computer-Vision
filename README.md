@@ -18,7 +18,7 @@ This repository contains implementations of fundamental and advanced computer vi
 ### **Usage**
 Clone the repository and run the scripts in MATLAB or Python:
 ```bash
-git clone https://github.com/yourusername/Computer-Vision.git
+git clone https://github.com/miraydicle/Computer-Vision.git
 cd Computer-Vision
 ```
 For MATLAB:
